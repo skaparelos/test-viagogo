@@ -24,15 +24,19 @@ Event 013 - $23.60, Distance 15
 I chose Python to complete this task. I have created 4 classes, and here I describe the gist of their functionality:
 
 1) Point class
+
 The Point class represents a point in the desired range (i.e. from -10 to +10 in both axis). Each point holds its x,y coordinates, one event, and can calculate the Manhattan distance to another point.
 
 2) Event class
+
 The Event class represents an event. Each event has a unique id, holds a point (the location where this event takes place), and a list of tickets.
 
 3) Ticket class
+
 The Ticket class represents a ticket.
 
 4) PointCollection class
+
 The PointCollection class is responsible for creating and manipulating point instances. Among others it maintains a list of all points, and it can create points, as well as events for points. 
 
 
