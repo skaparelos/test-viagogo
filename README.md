@@ -6,11 +6,17 @@ python viagogo.py
 
 # Example Run
 Input coords:> 8,9
+
 Closest Events to (8, 9):
+
 Event 023 - $0.35, Distance 2
+
 Event 014 - $9.29, Distance 5
+
 Event 012 - $12.58, Distance 7
+
 Event 026 - $8.05, Distance 9
+
 Event 013 - $23.60, Distance 15
 
 
